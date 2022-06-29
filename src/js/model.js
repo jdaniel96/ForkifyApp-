@@ -1,5 +1,3 @@
-import { initializeAccountInstructionData } from '@solana/spl-token';
-import { async } from 'regenerator-runtime';
 import { API_URL, KEY, RESULTS_PER_PAGE } from './config';
 import { getJSON, sendJSON } from './helper';
 

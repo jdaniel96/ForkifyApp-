@@ -10,12 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fractional": "^1.0.0",
     "parcel": "^2.5.0",
     "regenerator-runtime": "^0.13.9"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.5.0",
-    "core-js": "^3.23.3"
+    "core-js": "^3.23.3",
+    "fractional": "^1.0.0"
   }
 }
